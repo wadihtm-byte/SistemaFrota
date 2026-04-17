@@ -1,0 +1,3 @@
+python app.py
+
+acordar o motorista 2040
